@@ -70,4 +70,4 @@ This policy is effective as of 2021-08-18
 
 ## **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at developerkp16@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at devscipleph@outlook.com
