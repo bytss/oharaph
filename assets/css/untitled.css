@@ -1,0 +1,36 @@
+.bg-primary {
+  background: #272C34;
+}
+
+.btn.active, .btn:active, .btn:focus, .btn:hover {
+  color: #fff;
+  border-color: #272C34;
+  background-color: #272C34;
+}
+
+.bg-secondary {
+  background-color: #000046!important;
+}
+
+.white {
+  color: #fff;
+}
+
+.btn-outline-warning:not(:disabled):not(.disabled).active:focus, .btn-outline-warning:not(:disabled):not(.disabled):active:focus, .show > .btn-outline-warning.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .2rem #272C34;
+}
+
+.btn-outline-warning:hover {
+  color: #fff;
+  background-color: #272C34;
+  border-color: #272C34;
+}
+
+a:focus, a:hover {
+  color: #272C34;
+}
+
+#mainNav .navbar-nav > li > a.active {
+  color: #272C34!important;
+}
+
